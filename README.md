@@ -1,0 +1,2 @@
+# scalaget
+Scala crawling library
