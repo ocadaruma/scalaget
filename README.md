@@ -1,2 +1,2 @@
 # scalaget
-Scala crawling library
+A simple wget-like asynchronous crawler using Scala.
